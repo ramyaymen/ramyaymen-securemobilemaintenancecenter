@@ -4,7 +4,7 @@ $database_host = 'localhost';
 
 $database_username = 'root';
 
-$database_password = '';
+$database_password = '2223';
 
 $database_name = 'secure_mobile_center';
 
